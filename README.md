@@ -1,29 +1,17 @@
 # newsapp
 
-## Project setup
+## cd into the project folder and run the following commands
+
+## Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Start Local development server to run on local host
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+then visit http://localhost:8080/ to run application
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
